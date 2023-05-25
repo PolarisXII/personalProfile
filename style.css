@@ -1,6 +1,8 @@
 body{
     font-family: 'Lilita One', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color:#061123;
+    background-image: url(https://assets.goaaa.com/image/upload/c_fill,g_auto,w_1170,h_593,q_auto:best/v1647565564/singularity-migrated-images/northern-lights-aurora-borealis-fairbanks-alaska-via-magazine-aaa-bucket-list-experience-shutterstock_695456167.jpg.jpg);
+    background-size: 100%;
 }
 *{
     cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol394.cur), 
@@ -56,8 +58,8 @@ body{
     padding-bottom: 30px;
     padding-left: 30px;
     text-align: center;
-    background-color: #BBDEFB;
-    color: #061123;
+    background-color: #061123;
+    color: #BBDEFB;
     margin-bottom: 20px;
 }
 
@@ -97,7 +99,7 @@ body{
 .band-name{
     font-size: 50px;
     font-family: 'Metal Mania';
-    color: #061123;
+    color: #BBDEFB;
     text-decoration: none;
 }
 img {
